@@ -1,7 +1,7 @@
 server:
-  port: ${PORT:8100}
+  port: ${PORT:8123}
 
-name: World
+name: Welt
 
 endpoints:
   health:
